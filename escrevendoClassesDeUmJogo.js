@@ -17,13 +17,13 @@ class Hero {
     }
 }
 const hero1 = new Hero("Gandalf", 1000, "mago");
-hero1.attack(); // output: o mago atacou usando usou magia
+hero1.attack(); // o mago atacou usando magia
 
 const hero2 = new Hero("Aragorn", 30, "guerreiro");
-hero2.attack(); // output: o guerreiro atacou usando usou espada
+hero2.attack(); // o guerreiro atacou usando espada
 
 const hero3 = new Hero("Kung Fu", 25, "monge");
-hero3.attack(); // output: o monge atacou usando usou artes marciais
+hero3.attack(); // o monge atacou usando artes marciais
 
 const hero4 = new Hero("Naruto", 20, "ninja");
-hero4.attack(); // output: o ninja atacou usando usou shuriken
+hero4.attack(); // o ninja atacou usando shuriken
